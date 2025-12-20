@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body.bg-dark .card {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+body.bg-dark .table {
+  color: #ffffff;
+}
